@@ -1,5 +1,3 @@
----
-
 <div align="center">
     <img src="images/python.jpg" height="250rem" alt="banner image">
 </div>
@@ -56,5 +54,3 @@ We encourage contributions to this repository. If you come across any issues or 
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
-
----
